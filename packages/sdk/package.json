@@ -109,7 +109,7 @@
     "@udecode/plate-slash-command": "48.0.0",
     "@udecode/plate-trailing-block": "48.0.0",
     "antlr4ts": "0.5.0-alpha.4",
-    "axios": "1.7.7",
+    "axios": "1.20.0",
     "class-transformer": "0.5.1",
     "class-variance-authority": "0.7.0",
     "copy-to-clipboard": "3.3.3",
@@ -179,6 +179,6 @@
     "tailwindcss": "3.4.1",
     "typescript": "5.4.3",
     "vite-plugin-svgr": "4.2.0",
-    "vitest": "4.0.17"
+    "vitest": "5.0.5"
   }
 }

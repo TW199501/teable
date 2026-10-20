@@ -39,7 +39,7 @@
     "fix-all-files": "eslint . --ext .ts,.js,.mjs,.cjs,.mts,.cts --fix"
   },
   "dependencies": {
-    "@orpc/server": "1.13.0",
+    "@orpc/server": "1.14.8",
     "@teable/v2-command-explain": "workspace:*",
     "@teable/v2-container-node": "workspace:*",
     "@teable/v2-core": "workspace:*",
@@ -55,6 +55,6 @@
     "rimraf": "5.0.5",
     "tsdown": "0.18.1",
     "typescript": "5.4.3",
-    "vitest": "4.0.17"
+    "vitest": "5.0.5"
   }
 }
